@@ -1,0 +1,5 @@
+2) Quitaríamos el aributo precio de "vende" y se lo pondríamos a medicamento.
+
+3) Creamos una nueva entidad que sea receta y tenga como atributos un identificador de receta y el contenido de la receta. Vinculamos la
+   nueva entidad receta con receta y medicamentos.
+

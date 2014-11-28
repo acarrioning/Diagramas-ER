@@ -1,0 +1,1 @@
+.Sí, si juntamos avión y modelo en una nueva entidad, podremos hacer que la entidad técnico pueda estar relacionada como "experto en" con un avión y modelo concretos. 
